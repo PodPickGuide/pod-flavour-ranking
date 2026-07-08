@@ -1,0 +1,22 @@
+{
+  "dataset": "scene-rankings",
+  "version": "1.0.0",
+  "lastUpdated": "2026-07-08",
+  "scenes": {
+    "summerCooling": [
+      { "rank": 1, "flavour": "Antarctic Ice", "coolness": 5 },
+      { "rank": 2, "flavour": "Cool Lemon", "coolness": 5 },
+      { "rank": 3, "flavour": "Spring Mineral Water", "coolness": 4 }
+    ],
+    "dailyCarryLowSweet": [
+      { "rank": 1, "flavour": "Jasmine Green Tea", "sweetness": 2 },
+      { "rank": 2, "flavour": "Tea Guan Yin", "sweetness": 2 },
+      { "rank": 3, "flavour": "Spring Mineral Water", "sweetness": 1 }
+    ],
+    "avoidFirstPick": [
+      "Extreme mint (Antarctic Ice)",
+      "Ultra-sweet dessert / milk series",
+      "Niche flavours (Sarsae Beer, Old Popsicle)"
+    ]
+  }
+}

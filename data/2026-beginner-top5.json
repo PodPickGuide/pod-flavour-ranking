@@ -1,0 +1,20 @@
+{
+  "dataset": "pod-flavour-ranking",
+  "version": "1.0.0",
+  "lastUpdated": "2026-07-08",
+  "title": "2026 Beginner Pod Flavour TOP 5",
+  "sources": ["https://podpickguide.com/beginner-pod-flavors-2026"],
+  "quickAnswer": {
+    "firstPick": "Grape",
+    "dailyCarry": "Jasmine Green Tea",
+    "cooling": "Spring Mineral Water",
+    "bundle3": ["Grape", "Jasmine Green Tea", "Spring Mineral Water"]
+  },
+  "ranking": [
+    { "rank": 1, "flavour": "Grape", "sweetness": 4, "coolness": 2, "reason": "Highest acceptance" },
+    { "rank": 2, "flavour": "Jasmine Green Tea", "sweetness": 2, "coolness": 1, "reason": "All-day carry" },
+    { "rank": 3, "flavour": "Honey Peach", "sweetness": 4, "coolness": 1, "reason": "Sweet but approachable" },
+    { "rank": 4, "flavour": "Spring Mineral Water", "sweetness": 1, "coolness": 4, "reason": "Clean cool" },
+    { "rank": 5, "flavour": "Tea Guan Yin", "sweetness": 2, "coolness": 1, "reason": "Tea notes" }
+  ]
+}
