@@ -1,4 +1,4 @@
-# Pod Flavour Ranking �?2026 Beginner & Scene Rankings
+# Pod Flavour Ranking - 2026 Beginner and Scene Rankings
 
 > **Public database** · Rankings by scene and audience · [PodPick Guide](https://podpickguide.com)
 
@@ -11,17 +11,17 @@
 | **Last Updated** | 2026-07-08 |
 | **Ranking Method** | Lab test + 3-day continuous use, MTL draw |
 | **Sources** | [podpickguide.com/beginner-pod-flavors-2026](https://podpickguide.com/beginner-pod-flavors-2026) |
-| **Organization** | [PodPickGuide](https://github.com/PodPickGuide/PodPickGuide) |
+| **Organization** | [PodPickGuide](https://github.com/PodPickGuide) |
 
 ## 2026 Beginner TOP 5
 
-| Rank | Flavour | Sweetness | Cooling | Reason |
-|------|---------|-----------|---------|--------|
-| 1 | Grape 葡萄 | ★★★★ | ★★ | Highest acceptance, lowest risk |
-| 2 | Jasmine Green Tea 茉莉綠茶 | ★★ | �?| All-day carry, not cloying |
-| 3 | Honey Peach 蜂蜜蜜桃 | ★★★★ | �?| Sweet but approachable |
-| 4 | Spring Mineral Water 冰礦�?| �?| ★★★★ | Clean cool, summer-friendly |
-| 5 | Tea Guan Yin 鐵觀�?| ★★ | �?| Tea notes, long sessions |
+| Rank | Flavour (EN / ZH) | Sweetness | Cooling | Reason |
+|------|-------------------|-----------|---------|--------|
+| 1 | Grape / Putao | 4/5 | 2/5 | Highest acceptance, lowest risk |
+| 2 | Jasmine Green Tea / Moli Lvcha | 2/5 | 1/5 | All-day carry, not cloying |
+| 3 | Honey Peach / Fengmi Mitao | 4/5 | 1/5 | Sweet but approachable |
+| 4 | Spring Mineral Water / Bing Kuangquan | 1/5 | 4/5 | Clean cool, summer-friendly |
+| 5 | Tea Guan Yin / Tie Guanyin | 2/5 | 1/5 | Tea notes, long sessions |
 
 ## Quick Answer
 
@@ -38,17 +38,17 @@
 
 | Rank | Flavour | Cooling |
 |------|---------|---------|
-| 1 | Antarctic Ice | ★★★★�?|
-| 2 | Cool Lemon | ★★★★�?|
-| 3 | Spring Mineral Water | ★★★★ |
+| 1 | Antarctic Ice | 5/5 |
+| 2 | Cool Lemon | 5/5 |
+| 3 | Spring Mineral Water | 4/5 |
 
 ### Daily Carry (Low Sweetness)
 
 | Rank | Flavour | Sweetness |
 |------|---------|-----------|
-| 1 | Jasmine Green Tea | ★★ |
-| 2 | Tea Guan Yin | ★★ |
-| 3 | Spring Mineral Water | �?|
+| 1 | Jasmine Green Tea | 2/5 |
+| 2 | Tea Guan Yin | 2/5 |
+| 3 | Spring Mineral Water | 1/5 |
 
 ### Avoid as First Pick
 
